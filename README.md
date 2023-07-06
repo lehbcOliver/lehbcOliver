@@ -13,6 +13,7 @@
 ![LinkMysql_Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![LinkMongoDB_Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![LinkInsomnia_Badge](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
    Estudante de Analise e desenvolvimento de sistemas, na Universidade do Vale de Itajái! 
    Apaixonado por tecnologias, principalmente as tecnologias web! Atualmente estudando React 
