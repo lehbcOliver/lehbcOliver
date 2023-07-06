@@ -23,13 +23,13 @@
    Apaixonado por tecnologias, principalmente as tecnologias web! Atualmente fazendo o curso
    Ignite da Rocketseat. 
 
-   ### Hard Skills                                                     ## Soft Skills
-   + HTML                                                              + Trabalho em Equipe
-   + CSS                                                               + Comunicação
-   + JavaScript                                                        + Flexibilidade
-   + TypeScript                                                        + Paciencia
-   + React                                                             + Atitude Positiva     
-   + React Native                                                      + Organização e Gestão de tempo
+   ### Hard Skills                                                     
+   + HTML                                                             
+   + CSS                                                              
+   + JavaScript                                                       
+   + TypeScript                                                        
+   + React                                                              
+   + React Native                                                       
    + NodeJs
    + MySql
    + MongoDB
@@ -37,7 +37,15 @@
    + Casos de Uso
    + Testes (Vitest)
    + Prisma
-  
+
+
+  ## Soft Skills
+   + Trabalho em Equipe
+   + Comunicação
+   + Flexibilidade
+   + Paciencia
+   + Atitude Positiva
+   + Organização e Gestão de tempo
 <!--
 **lehbcOliver/lehbcOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
