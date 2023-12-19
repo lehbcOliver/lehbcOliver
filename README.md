@@ -20,6 +20,7 @@
 ![Eslint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
    Graduado em Analise e desenvolvimento de Sistemas pela Universidade do Vale de Itajái! 
    Apaixonado por tecnologias, principalmente as tecnologias web! Atualmente fazendo o curso
@@ -35,6 +36,7 @@
    + NodeJs
    + MySql
    + MongoDB
+   + Elixir
    + GitHub - Actions
    + Casos de Uso
    + Testes (Vitest)
